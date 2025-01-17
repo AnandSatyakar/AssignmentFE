@@ -4,7 +4,7 @@ import Table from "./Table";
 import Pagination from "./pagination";
 
 import "./App.css";
-import Header from "./Header.Jsx";
+import Header from "./Header.jsx";
 
 const App = () => {
   const [projects, setProjects] = useState([]);
